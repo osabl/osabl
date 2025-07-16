@@ -1,13 +1,11 @@
-## Hey there 👋 I'm Andrii
-
-🧑‍💻 Frontend Developer\
-🚀 Vue / Nuxt · TypeScript\
-🎯 Creating interfaces that solve problems
+### Hey there 👋 I'm ...
+🧑‍💻 a Frontend Developer\
+🚀 focused on Vue / Nuxt · TypeScript\
+🎯 creating interfaces that solve problems
 
 ---
 
 ### 🛠️ Main Stack
-
 [![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)](https://vuejs.org/)
 [![Nuxt Badge](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=fff&style=for-the-badge)](https://nuxt.com/)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)](https://www.typescriptlang.org/)
